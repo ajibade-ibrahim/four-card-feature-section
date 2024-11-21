@@ -60,6 +60,10 @@ h3 {
     letter-spacing: 0;
 }
 
+p {
+    opacity: 50%;
+}
+
 /*containers*/
 .container {
     width: 100%;
@@ -76,10 +80,6 @@ h3 {
         row-gap: 7.6rem;
         padding: 8.5rem 3.2rem;
     }
-}
-
-p {
-    opacity: 50%;
 }
 
 header {
